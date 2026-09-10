@@ -48,4 +48,5 @@ Byte Queens
 Tecnologia, criatividade e elegância em cada linha de código.
 <img width="512" height="279" alt="1000528910" src="https://github.com/user-attachments/assets/f9ece32f-d583-4f5f-8778-93e7dfd2d9f6" />
 # Imagem
+<img scr=https://github.com/AlannaAlves/Byte-Queens/blob/0ce3be91de797d7acadb778bbd00b2f72d7ef08f/file_000000000d18820e98fcf8a38c4c423e.png>
 
